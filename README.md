@@ -56,7 +56,7 @@ LearningAppGenAi/
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohithhm/LearningAppGenAi.git
+   git clone https://github.com/atharrvvvs/Gen-AI-Learning-App
    cd LearningAppGenAi
    ```
 2. Install dependencies:
